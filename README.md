@@ -25,5 +25,3 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
 
-Y todo con más de **40 horas de video bajo demanda**, cientos de ejercicios, tareas, talleres y trucos de los profesores para que te conviertas en un experto de la materia.
-
